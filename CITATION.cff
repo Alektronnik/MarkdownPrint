@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use MarkdownPrint in your research or project, please cite it as follows."
+title: "MarkdownPrint: Markdown to Polished Apple-Native PDFs"
+version: 1.0.0
+date-released: 2026-07-06
+authors:
+  - family-names: Izquierdo Perez
+    given-names: Bezalel
+    orcid: "https://orcid.org/0009-0001-5993-4057"
+    alias: Alektronnik
+repository-code: "https://github.com/Alektronnik/MarkdownPrint"
+url: "https://github.com/Alektronnik/MarkdownPrint"
+abstract: >
+  MarkdownPrint converts Markdown into professional, Apple-native PDFs with
+  zero external dependencies. The pipeline is direct CoreText, CoreGraphics,
+  and PDFKit -- no WebKit, no HTML renderer, no LaTeX. Features include
+  native C++ math rendering, syntax-highlighted code blocks, tables, table of
+  contents, justified text, watermarks, page headers/footers, configurable
+  themes, SwiftUI integration, and async/cancellable rendering. Cross-platform
+  across macOS, iOS, and visionOS via Swift Package Manager. 569 tests, 0
+  failures, 89% code coverage.
+keywords:
+  - markdown
+  - pdf
+  - swift
+  - coretext
+  - coregraphics
+  - pdfkit
+  - document-generation
+  - apple-platforms
+  - typesetting
+  - math-rendering
+license: MIT
+type: software
