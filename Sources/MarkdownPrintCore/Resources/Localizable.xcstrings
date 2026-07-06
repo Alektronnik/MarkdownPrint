@@ -1,0 +1,58 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Feature not implemented: %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Feature not implemented: %@" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Funcionalidad no implementada: %@" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Fonctionnalite non implementee : %@" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Funktion nicht implementiert: %@" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "未実装の機能: %@" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "功能未实现: %@" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "구현되지 않은 기능: %@" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الميزة غير منفذة: %@" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Funcionalidade nao implementada: %@" } }
+      }
+    },
+    "Input data is not valid UTF-8" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Input data is not valid UTF-8" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Los datos de entrada no son UTF-8 validos" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Les donnees d'entree ne sont pas en UTF-8 valide" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Eingabedaten sind kein gultiges UTF-8" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "入力データが有効なUTF-8ではありません" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "输入数据不是有效的UTF-8" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "입력 데이터가 유효한 UTF-8이 아닙니다" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "بيانات الإدخال ليست UTF-8 صالحة" } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Os dados de entrada nao sao UTF-8 validos" } }
+      }
+    },
+    "This feature will be available in a future version." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "This feature will be available in a future version." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Esta funcionalidad estara disponible en una version futura." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Cette fonctionnalite sera disponible dans une version future." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Diese Funktion wird in einer zukunftigen Version verfugbar sein." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "この機能は将来のバージョンで利用可能になります。" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "此功能将在未来版本中提供。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이 기능은 향후 버전에서 사용할 수 있습니다." } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "ستتوفر هذه الميزة في إصدار مستقبلي." } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Esta funcionalidade estara disponivel numa versao futura." } }
+      }
+    },
+    "Ensure the input data is encoded as UTF-8." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ensure the input data is encoded as UTF-8." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Asegurese de que los datos de entrada esten codificados como UTF-8." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Assurez-vous que les donnees d'entree sont encodees en UTF-8." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Stellen Sie sicher, dass die Eingabedaten als UTF-8 kodiert sind." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "入力データがUTF-8でエンコードされていることを確認してください。" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "请确保输入数据以UTF-8编码。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "입력 데이터가 UTF-8로 인코딩되었는지 확인하십시오." } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تأكد من ترميز بيانات الإدخال بتنسيق UTF-8." } },
+        "pt" : { "stringUnit" : { "state" : "translated", "value" : "Certifique-se de que os dados de entrada estao codificados como UTF-8." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

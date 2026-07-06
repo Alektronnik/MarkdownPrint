@@ -1,0 +1,28 @@
+# Swift/Xcode
+.build/
+.swiftpm/
+*.xcodeproj
+xcuserdata/
+*.xcuserstate
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+*.pdf
+*.tar.gz
+
+# Exception: demo PDF is committed as showcase
+!Examples/demo.pdf
+
+# IDE
+.idea/
+.vscode/
+
+# Temp
+*.swp
+*~
+
+# Note: __Snapshots__/ directories ARE committed --
+# they are the reference files for snapshot testing.
