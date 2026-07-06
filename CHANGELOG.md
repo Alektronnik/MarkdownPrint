@@ -23,7 +23,7 @@ All notable changes to MarkdownPrint.
 - `Watermark` struct with `.confidential()`, `.draft()`, `.image(at:)` factories
 - `PageHeaderFooter` struct with `.sectionAndPage()`, `.titleAndPage()` factories
 - `PDFRenderResult.diagnostics` formatted string
-- `MarkdownLayoutElement.withText()` for cross-reference resolution
+- Cross-reference resolution in inline markdown
 - Optical kerning on H1-H3 headings
 - Standard ligatures (fi, fl, ff) on all text
 - Tabular numbers in table cells via `kCTFontFeatureSettingsAttribute`
