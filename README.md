@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-569%20passed-brightgreen)](.)
 [![Coverage](https://img.shields.io/badge/Coverage-94.4%25%20filtered-brightgreen)](.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21226077.svg)](https://doi.org/10.5281/zenodo.21226077)
 
 **MarkdownPrint converts Markdown into polished, Apple-native PDFs.**
 
