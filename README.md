@@ -53,7 +53,7 @@ When you need more: dark mode, high contrast, Dynamic Type scaling, custom theme
 ## Installation
 
 ```swift
-.package(url: "https://github.com/your-org/MarkdownPrint", from: "1.0.0")
+.package(url: "https://github.com/Alektronnik/MarkdownPrint", from: "1.0.0")
 ```
 
 ## Coverage
